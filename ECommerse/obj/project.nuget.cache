@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Ll9kp+nb9/58Fl0UISqp4qXCewVTwEPfyyuzgrXcNPw8uEdJRKj+k+2+Bo3qjNPajIPK1Tq4yb/uAHB83EmrJg==",
+  "dgSpecHash": "bq/LehCU+I4T9trcPKJm+wTVifMwUMAS+TVPjbJWZnr0g2Njy3OUTreYCBC4f3swlXE+PwCVAQn2mKt4iB0clA==",
   "success": true,
   "projectFilePath": "C:\\Users\\rajat\\source\\repos\\Codementor\\ECommerse\\ECommerse\\ECommerse.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rajat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\rajat\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rajat\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\rajat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\rajat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\rajat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
