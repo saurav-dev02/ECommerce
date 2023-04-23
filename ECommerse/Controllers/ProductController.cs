@@ -15,12 +15,6 @@ namespace ECommerse.Controllers
 			return Ok();
 		}
 
-		//[HttpGet("/all")]
-		//public ActionResult GetProductByName(string searchTerm)
-		//{
-		//	return Ok();
-		//}
-
 		[HttpGet("{id}")]
 		public ActionResult GetProduct(int id)
 		{
@@ -30,6 +24,7 @@ namespace ECommerse.Controllers
 		[HttpPost]
 		public ActionResult CreateProduct(Product productToCreate)
 		{
+			var newProduct = productToCreate;
 			return Ok();
 		}
 
